@@ -14,7 +14,6 @@ def sumthing():
           sys.stdout.flush()
         print("\n")
         time.sleep(1)
-#enter you txt file of choice ↓
         f = open('example.txt','r')
         for word in f:
           pyautogui.typewrite(word)

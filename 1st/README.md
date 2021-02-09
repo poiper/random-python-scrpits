@@ -3,7 +3,7 @@
 ---
 ## **instructions:**
 - [x] **start by installing pyautogui `pip install pyautogui`**
-- [x] **then make sure you have a text file ready and type what ever you want in it when you done just name it** ***{example.txt}***
+- [x] **then make sure you have a text file ready and type what ever you want in it when you done just name it** ***example.txt***
 - [x] **after that just run it**
 
 ```python

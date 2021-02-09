@@ -2,8 +2,8 @@
 ## **things you will need: pyautogui**
 ---
 ## **instructions:**
-- [x] start by installing pyautogui `pip install pyautogui`
-- [x] after you do that go to your IDE of choice or cmd prompt and run it 
+- [ ] start by installing pyautogui `pip install pyautogui`
+- [ ] after you do that go to your IDE of choice or cmd prompt and run it 
 ## **Sources:** [Max Codez](https://www.youtube.com/watch?v=jBxRGcDmfWA "the video link")
 the code i used from his video:
 ```python

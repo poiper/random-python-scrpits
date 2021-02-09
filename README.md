@@ -1,4 +1,10 @@
 # **Welcome**
-## I will be posting random python scripts here there most likely going to be mine, but in the instance that it's not I will be sure to ask explicit permission from the author and i will make sure to credit them
+## I will be posting random python scripts here
 
->also every python file will have a read me with  a description along with instructions
+
+- ## **also every python file will have a read me that contains a description along with instructions to get your code up and running**
+
+> **although they're not required donations mean a metric truck ton to me**
+
+
+## [donations](https://www.youtube.com/watch?v=slogfEswemE "this link will lead you to my donations") 

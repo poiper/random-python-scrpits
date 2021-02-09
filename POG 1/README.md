@@ -1,5 +1,5 @@
 # **python spam bot**
-## **things you will need: pyautogui**
+## **things you will need: pyautogui and sys**
 ---
 ## **instructions:**
 - [x] **start by installing pyautogui `pip install pyautogui`**

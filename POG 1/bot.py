@@ -1,5 +1,5 @@
 # Author : @poiper 
-# patch version : 0.01
+# patch version : 0.0.1
 import sys, time, pyautogui
 def sumthing():
   flag = 0

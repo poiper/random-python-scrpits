@@ -1,5 +1,5 @@
 # **python spam bot** 
-> version: 0.01
+> version: 0.0.1
 ## **things you will need: pyautogui**
 ---
 ## **instructions:**

@@ -1,4 +1,5 @@
 # Author : @poiper 
+# patch version : 0.01
 import sys, time, pyautogui
 def sumthing():
   flag = 0
@@ -25,7 +26,7 @@ def sumthing():
          input("[!] the program will now exit press enter to continue . . .")
          exit()
        if z == "n":
-         pass
+         pass   
    if x == 'n':
       p = input("[?] would you like the program to exit y/n ? : ")
       if p == "y":

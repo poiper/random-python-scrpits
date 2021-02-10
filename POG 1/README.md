@@ -1,5 +1,6 @@
-# **python spam bot**
-## **things you will need: pyautogui and sys**
+# **python spam bot** 
+> version: 0.01
+## **things you will need: pyautogui**
 ---
 ## **instructions:**
 - [x] **start by installing pyautogui `pip install pyautogui`**
@@ -9,7 +10,7 @@
 ```python
      f = open('example.txt','r')
 ```
-## **if you have any questions my contact info is below**
+
 ---
 
 > ## **contact info:**
